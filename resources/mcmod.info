@@ -1,0 +1,16 @@
+[
+{
+  "modid": "AutoRanked",
+  "name": "Auto Ranked /who",
+  "description": "Simple mod that does /who in ranked for lazies.",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["2Pi"],
+  "credits": "2Pi",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
